@@ -1,0 +1,13 @@
+{
+  "name": "lsx-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "cli.js",
+  "repository": "https://github.com/bendan321/lsx-cli.git",
+  "author": "lishuxiang <shu0330xiang@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ejs": "^3.1.5",
+    "inquirer": "^7.3.3"
+  }
+}
